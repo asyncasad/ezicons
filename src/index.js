@@ -50,7 +50,7 @@ async function handleRequest(request) {
       },
     });
   }
-  return Response.redirect("https://github.com/asyncasad");
+  return Response.redirect("https://github.com/asyncasad/ezicons#readme");
 }
 
 addEventListener("fetch", (event) => {
