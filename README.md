@@ -26,7 +26,7 @@ You can also specify gaps between icons, height and width of icon & icons per li
 You can make use of the optional arguments gap,perLine and dimension each of them is set to a default value of 8px,15 and 48px respectively.
 
 ```md
-![Ezy Icons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
 ```
 ![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
 
