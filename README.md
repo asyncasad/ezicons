@@ -26,7 +26,7 @@ You can make use of the optional arguments gap,perLine and dimension each of the
 ```md
 ![Ezy Icons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
 ```
-![Ezy Icons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-light-js,skills-light-typescript,skills-light-nextjs,skills-light-html5,skills-light-css3,skills-light-nodejs,skills-light-mongodb&perLine=2&gap=20&dimension=60)
 
 You can also integrate icons into your website by using the img tag and setting the source to the desired icons url.
 
