@@ -356,3 +356,4 @@ You can also integrate icons into your website by using the img tag and setting 
 | `skills-light-zod` | <img src="./public/icons/skills/light/zod.svg" width="48"> |
 
 
+
