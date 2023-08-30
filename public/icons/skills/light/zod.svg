@@ -1,6 +1,6 @@
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="0.5" y="0.5" width="255" height="255" rx="31.5" fill="white"/>
-<rect x="0.5" y="0.5" width="255" height="255" rx="31.5" stroke="white"/>
+<rect x="0.5" y="0.5" width="255" height="255" rx="31.5" fill="#F4F2ED"/>
+<rect x="0.5" y="0.5" width="255" height="255" rx="31.5" stroke="#F4F2ED"/>
 <rect x="66.8513" y="77.6012" width="123.08" height="95.0039" fill="url(#pattern0)"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M160.358 136.651H136.44V139.018H98.36V148.132H104.632V155.686H149.332V148.132H156.063V139.218H160.358V136.651Z" fill="#274D82"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M137.124 74.5681L132.956 76.9758L131.94 75.2176L129.513 76.6185L128.327 74.5681L124.641 76.6965L123.413 74.5681L122.974 74.8205L121.632 72.4951L121.009 72.8538L119.866 70.8743L65.11 102.487L66.8754 105.544L67.4965 105.185L68.6408 107.164L69.0775 106.912L70.4217 109.239L70.9577 108.928L71.8113 110.407L72.0169 110.288L72.8266 111.691L74.592 114.748L138.89 77.6253L137.124 74.5681Z" fill="#274D82"/>
